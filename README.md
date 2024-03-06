@@ -29,7 +29,10 @@ The project is made of some pages: Home, Contact, About, Planets, Error and Deta
 #Details:
 ![details](https://github.com/velizar92/SolarSystem/assets/40525254/5ea941af-490d-4930-b60a-c1768849eb4d)
 
-#Error:
+#Mobile views:
+![mobile2](https://github.com/velizar92/SolarSystem/assets/40525254/4e8b76ad-4b93-49d7-8cfe-eb755406296a)
+![mobile](https://github.com/velizar92/SolarSystem/assets/40525254/52510d25-b4d3-4d31-94b8-f54f777e6653)
+
 
 
 
