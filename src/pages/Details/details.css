@@ -1,0 +1,19 @@
+.side-picture-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.side-picture-container img{
+    width: 400px;
+    height: 400px;
+    border-radius: 500px;
+    margin-left: 700px;
+}
+
+.add-planet-info{
+    color: #fff;
+    font-size: 20px;
+    margin-left: 760px;
+}
+

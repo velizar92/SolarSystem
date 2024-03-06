@@ -1,4 +1,4 @@
-.container {
+.card-container {
     background-color: transparent;
     border-radius: 12px;
     border: 1px solid rgba(255, 255, 255, 0.125);  
@@ -88,6 +88,11 @@
     transition: all .3s ease; 
     font-size: 20px;
   }
+
+  .fill a {
+    color: #fff;
+    text-decoration: none;
+  }
   
   .fill:hover{
     transform: scale(1.125);  
@@ -95,3 +100,17 @@
     border-color: rgba(255, 255, 255, 0.9);
     filter: drop-shadow(0 10px 5px rgba(0,0,0,0.125));  
   }
+
+  @media screen and (max-width: 1024px) {
+    .card-container {
+      width: 40%;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .card-container {
+      width: 100%;
+    }
+  }
+
+ 

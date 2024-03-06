@@ -1,3 +1,8 @@
+.main-container{
+    display: flex;
+    flex-direction: row;
+}
+
 .main h1{
     margin-top: 170px;
     color: #fff;
@@ -16,4 +21,5 @@
 .sub-heading {
     color: #fff;
     font-size: 30px;
+    max-width:650px;
 }

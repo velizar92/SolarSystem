@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import '../Planets/planets.css';
-import Planet from './Planet';
+import Planet from '../../components/Planet/Planet';
 
 const Planets = () => {
 
