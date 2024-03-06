@@ -42,13 +42,13 @@
 }
 
 .active-menu-option {
-    background-color: rgb(93, 9, 95);
+    background-color:  rgba(0, 212, 255, 0.9);
     padding: 10px;
     border-radius: 50px;
 }
 
 .navbar .active-menu-option:hover{
-    color: rgb(15, 214, 78);
+    color: orange;
 }
 
 #check {
