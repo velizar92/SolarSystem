@@ -11,7 +11,7 @@ const Planets = () => {
             const response = await fetch('https://planets-info-by-newbapi.p.rapidapi.com/api/v1/planets/', {
                 method: 'GET',
                 headers: {
-                    'X-RapidAPI-Key': '',
+                    'X-RapidAPI-Key': '3654d62ab0msh9f8bd5809f74ca2p1f51d6jsnc7a677c310e7',
                     'X-RapidAPI-Host': 'planets-info-by-newbapi.p.rapidapi.com'
                 }
             }).catch((err) => ('Error in catch', console.error(err)));
